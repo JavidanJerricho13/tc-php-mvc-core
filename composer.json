@@ -1,0 +1,15 @@
+{
+    "name": "cb/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Cb\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JavidanJerricho13",
+            "email": "behremlicavidan7@gmail.com"
+        }
+    ],
+    "require": {}
+}
